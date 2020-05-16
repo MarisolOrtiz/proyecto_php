@@ -6,9 +6,9 @@ $seis_meses=($ahorro*0.035 * 6); // ahorro para 6 meses
 $doce_meses=($ahorro*0.035 * 12); //ahorro para 12 meses
 
 echo "<h1>Ejercicio de ganancia para 3,6,12 meses con 3.5% </h1><br>";
-echo "<BR>Ahorro de tres meses: $tres_meses"; //IMPRIMO LOS RESULTADOS
-echo "<BR>Ahorro de seis meses: $seis_meses";
-echo "<BR>Ahorro de  doce meses: $doce_meses";
+echo "<BR>Ahorro de Tres meses: $tres_meses"; //IMPRIMO LOS RESULTADOS
+echo "<BR>Ahorro de Seis meses: $seis_meses";
+echo "<BR>Ahorro de Doce meses: $doce_meses";
 echo "</center>";
 
 ?>
