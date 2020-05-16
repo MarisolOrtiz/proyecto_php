@@ -18,6 +18,7 @@ if(isset($_POST["texSueldo"])){
 </head>
 <body>
 <form action ="" method="post">
+<h2>Registre El Sueldo Base </h2>
 
 <label for="txtSueldo">sueldo base:</label>
 <input type="text" name= "texSueldo"
